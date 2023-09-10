@@ -21,3 +21,6 @@ To get the average age of depositor, we apply this DAX query
 Average age of depositor = AVERAGE('bank-full'[age])
 Then i proceeded in creating a new conditional column called **Age Band**
 
+![](ageband.JPG)
+![](Bank_term_deposit-1.png)
+
